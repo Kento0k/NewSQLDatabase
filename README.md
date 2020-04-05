@@ -30,7 +30,3 @@ WHERE first_name LIKE '%true%'
 OR last_name LIKE '%true%'
 OR has_kids = true
 
-BUILD SUCCESSFUL in 2s
-3 actionable tasks: 1 executed, 2 up-to-date
-21:49:05: Task execution finished 'QueryGenerator.main()'.
-
