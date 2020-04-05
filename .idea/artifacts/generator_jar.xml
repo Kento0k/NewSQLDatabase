@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/generator_jar</output-path>
+    <root id="archive" name="generator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="NewSQLDatabase.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.0.rc1/24a6292f6ec145e0c4ee10145369010cba0daf67/jackson-core-2.11.0.rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0.rc1/544a860c36bd64eb2ba0ea4f1304ebc61846c9ea/jackson-databind-2.11.0.rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.26/a78a8747147d2c5807683e76ec2b633e95c14fe9/snakeyaml-1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0.rc1/f38d7bd917d96c4db03a8bb49057b23e514ea01f/jackson-annotations-2.11.0.rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.11.0.rc1/96974d2a21880ed33371bc82dba6fc93bea7a351/jackson-dataformat-yaml-2.11.0.rc1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/structure.yaml" />
+    </root>
+  </artifact>
+</component>
